@@ -3,6 +3,8 @@ Data related to Check Point API calls for statistical analysis
 
 This data came from my attempts to optimize my API calls for some development. The VMs are running in VirtualBox on a macpro5,1 with two Xeon X5675 processors, 96 GB of 1066 MHz DDR3 RAM, and a 2 TB Western Digital Blue SATA SSD.
 
+The 2200 has been modified. I gave it 8 GB of RAM and replaced its spinning hard drive with a 400 GB Intel S3700 SSD. The processor supports Hyperthreading, but it is disabled in the firmware, the firmware controls are locked behind a password, and I haven't bothered with cracking that password yet.
+
 On the VMs, I used this script:
 ```
 #!/usr/bin/env bash
