@@ -1,0 +1,47 @@
+2200 with 2 cores, 8192 MB of RAM
+----------------------------------------
+Machine profile:  Small Medium env resources profile                
+CPM heap size:    1024m                          
+API heap size:    256m                           
+
+================================================================================
+VM with 1 core, 4096 MB of RAM; I had to add a 2s pause between API calls to not crash the API service.
+----------------------------------------
+Machine profile:  Small Medium env resources profile                
+CPM heap size:    1024m                          
+API heap size:    256m                           
+
+================================================================================
+VM with 1 core, 8192 MB of RAM; I had to add a 2s pause between API calls to not crash the API service.
+----------------------------------------
+Machine profile:  Medium env resources profile                
+CPM heap size:    1024m                          
+API heap size:    256m                           
+
+================================================================================
+VM with 2 cores, 8192 MB of RAM
+----------------------------------------
+Machine profile:  Medium env resources profile                
+CPM heap size:    1024m                          
+API heap size:    256m                           
+
+================================================================================
+VM with 2 cores, 16384 MB of RAM
+----------------------------------------
+Machine profile:  Large SMC env resources profile without SME                
+CPM heap size:    1024m                          
+API heap size:    256m                           
+
+================================================================================
+VM with 4 cores, 8192 MB of RAM
+----------------------------------------
+Machine profile:  Medium env resources profile                
+CPM heap size:    1024m                          
+API heap size:    256m                           
+
+================================================================================
+VM with 4 cores, 16384 MB of RAM
+----------------------------------------
+Machine profile:  Large SMC env resources profile without SME                
+CPM heap size:    1024m                          
+API heap size:    256m                           
